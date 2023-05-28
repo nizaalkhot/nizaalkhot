@@ -1,8 +1,12 @@
-### Hi there 👋
+## Hi👋, I am Nijaal Khot.
+
+**`Software Engineer | AI/ML Engineer | Python Developer | Full Stack Developer`**
+
+[My Resume](https://github.com/nijaalk/nijaalk/blob/dev/Resume.pdf)
 
 ---
 
-## ⚙️ Programming Languages
+## 🧰 Languages and Tools
 <br>
 
 <p>
@@ -12,21 +16,21 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/html-5.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/css3.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-plus-plus.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/git.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/git.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/github.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/linux.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/linux.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/mongodb.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/express-js.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/react-native.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/ffa500/nodejs.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/mysql-logo.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/mysql-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/amazon-web-services.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/metasploit.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/metasploit.png"/>
 </p>
 
 ---
 
-## ⚙️ Badges
+## 🏅 Badges
 <br>
 
 <a style="padding:5px" href="https://www.credly.com/badges/e491e07b-6d9e-4e72-851d-77ba148d5e6e/public_url"><img alt="Data Science Professional Certificate" src="https://images.credly.com/size/720x720/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png" width="120"/></a>
@@ -46,6 +50,8 @@
 <a style="padding:5px" href="https://www.credly.com/badges/eaec85cf-559b-4d9e-932c-6259f118c93e/public_url"><img alt="Data Science Orientation" src="https://images.credly.com/size/720x720/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="120"/></a>
 <a style="padding:5px" href="https://www.credly.com/badges/a96c8895-cea0-4025-a95f-dd8f51d8dec1/public_url"><img alt="Microsoft Certified: Azure AI Fundamentals" src="https://images.credly.com/size/720x720/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="120"/></a>
 
+<p align="center"><a href="https://www.credly.com/users/nijaal_khot/badges">View All</a></p>
+
 ---
 
 ## ⚙️ GitHub Analytics
@@ -54,7 +60,6 @@
 <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nijaalk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nijaalk&layout=compact&langs_count=8&theme=radical"/>
 
 <img height="282em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nijaalk&theme=radical"/>
-
 
 <!--
 **nijaalk/nijaalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

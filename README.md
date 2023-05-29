@@ -2,7 +2,7 @@
 
 **`Software Engineer | AI/ML Engineer | Python Developer | Full Stack Developer`**
 
-[My Resume](https://github.com/nijaalk/nijaalk/blob/dev/Resume.pdf)
+[My Resume](https://github.com/nijaalk/nijaalk/blob/main/Resume.pdf)
 
 ---
 
@@ -25,7 +25,6 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/ffa500/nodejs.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/mysql-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/amazon-web-services.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/metasploit.png"/>
 </p>
 
 ---

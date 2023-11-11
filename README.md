@@ -1,4 +1,4 @@
-## Hi👋, I am Nijaal Khot.
+## Hi👋, I am Nizaal Khot.
 
 **`Software Engineer | AI/ML Engineer | Python Developer | Full Stack Developer`**
 

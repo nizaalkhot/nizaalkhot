@@ -2,7 +2,7 @@
 
 **`Software Engineer | AI/ML Engineer | Python Developer | Full Stack Developer`**
 
-[My Resume](https://github.com/nijaalk/nijaalk/blob/main/Resume.pdf)
+[My Resume](https://github.com/nizaalkhot/nizaalkhot/blob/main/Resume.pdf)
 
 ---
 
@@ -56,12 +56,12 @@
 ## ⚙️ GitHub Analytics
 <br>
 
-<img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nijaalk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nijaalk&layout=compact&langs_count=8&theme=radical"/>
+<img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nizaalkhot&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nizaalkhot&layout=compact&langs_count=8&theme=radical"/>
 
-<img height="282em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nijaalk&theme=radical"/>
+<img height="282em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nizaalkhot&theme=radical"/>
 
 <!--
-**nijaalk/nijaalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nizaalkhot/nizaalkhot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

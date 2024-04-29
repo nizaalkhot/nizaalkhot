@@ -5,8 +5,8 @@
 [My Resume](https://github.com/nizaalkhot/nizaalkhot/blob/main/Resume.pdf)
 
 ---
-
-## 🧰 Languages and Tools
+<details open>
+<summary><h2> 🧰 Languages and Tools </h2></summary>
 <br>
 
 <p>
@@ -26,10 +26,10 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/mysql-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/amazon-web-services.png"/>
 </p>
-
----
-
-## 🏅 Badges
+</details>
+<hr>
+<details open>
+<summary><h2> 🏅 Badges </h2></summary>
 <br>
 
 <a style="padding:5px" href="https://www.credly.com/badges/e491e07b-6d9e-4e72-851d-77ba148d5e6e/public_url"><img alt="Data Science Professional Certificate" src="https://images.credly.com/size/720x720/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png" width="120"/></a>
@@ -50,8 +50,8 @@
 <a style="padding:5px" href="https://www.credly.com/badges/a96c8895-cea0-4025-a95f-dd8f51d8dec1/public_url"><img alt="Microsoft Certified: Azure AI Fundamentals" src="https://images.credly.com/size/720x720/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="120"/></a>
 
 <p align="center"><a href="https://www.credly.com/users/nijaal_khot/badges">View All</a></p>
-
----
+</details>
+<hr>
 
 ## ⚙️ GitHub Analytics
 <br>

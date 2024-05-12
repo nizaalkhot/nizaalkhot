@@ -53,13 +53,15 @@
 </details>
 <hr>
 
-## ⚙️ GitHub Analytics
+<details open>
+<summary><h2> ⚙️ GitHub Analytics </h2></summary>
 <br>
 
 <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nizaalkhot&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nizaalkhot&layout=compact&langs_count=8&theme=radical"/>
 
 <img height="282em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nizaalkhot&theme=radical"/>
-
+</details>
+<hr>
 <!--
 **nizaalkhot/nizaalkhot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,8 +6,10 @@
 *Agentic AI & Orchestration | Full-Stack Backend Architecture | MLOps & Production Engineering*
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nizaalkhot&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Experience-<!-- YEARS_OF_EXPERIENCE:START -->4+<!-- YEARS_OF_EXPERIENCE:END -->%20Years-blue?style=flat-square" alt="Years of Experience" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=nizaalkhot&label=Profile%20Views&countColor=%230078D4&style=flat-square" alt="Profile Views" />
+<!-- EXPERIENCE_BADGE:START -->
+<img src="https://img.shields.io/badge/Experience-4%2B%20Years-0078D4?style=flat-square" alt="Years of Experience" />
+<!-- EXPERIENCE_BADGE:END -->
   <img src="https://img.shields.io/badge/Status-🟢_Open_to_AI_Opportunities-success?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-lightgrey?style=flat-square" alt="Location" />
 </p>
@@ -177,6 +179,6 @@ Senior AI & Systems Engineer with **<!-- YEARS_OF_EXPERIENCE:START -->4+<!-- YEA
 
 <p align="center">
 <!-- LAST_UPDATED:START -->
-⚡ *Automated with GitHub Actions • Last synced: `2026-10-13 19:48 UTC`*
+⚡ *Automated with GitHub Actions • Last synced: `2026-10-13 19:53 UTC`*
 <!-- LAST_UPDATED:END -->
 </p>

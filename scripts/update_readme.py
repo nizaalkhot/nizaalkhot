@@ -53,11 +53,15 @@ TECH_BADGES = {
 def calculate_years_experience() -> str:
     """Calculate dynamic years of experience starting from May 2022."""
     now = datetime.now(timezone.utc)
-    # Calculate difference in total months
     total_months = (now.year - CAREER_START_DATE.year) * 12 + (now.month - CAREER_START_DATE.month)
     years = total_months / 12.0
-    # Return formatted "4+"
     return f"{int(years)}+"
+
+
+def generate_experience_badge(years_str: str) -> str:
+    """Generate a clean Shields.io badge with properly encoded text."""
+    encoded_val = years_str.replace("+", "%2B")
+    return f'<img src="https://img.shields.io/badge/Experience-{encoded_val}%20Years-0078D4?style=flat-square" alt="Years of Experience" />'
 
 
 def make_request(url: str):
@@ -93,18 +97,15 @@ def fetch_repositories():
     priority_topics = {"featured", "portfolio", "showcase", "genai", "agent", "agents", "langgraph", "rag"}
 
     for r in repos:
-        # Exclude forks, archived, and the profile repository itself
         if r.get("fork") or r.get("archived") or r.get("name") == PROFILE_REPO:
             continue
 
         topics = set(r.get("topics", []))
         is_priority = bool(topics & priority_topics)
 
-        # Calculate a ranking score: featured topics get heavy boost, plus star count
         score = (100 if is_priority else 0) + (r.get("stargazers_count", 0) * 10)
         valid_repos.append((score, r))
 
-    # Sort descending by score, then by pushed_at
     valid_repos.sort(
         key=lambda item: (item[0], item[1].get("pushed_at", "")),
         reverse=True
@@ -135,7 +136,6 @@ def get_badges_for_repo(repo):
     if not badges:
         badges.append("![AI Project](https://img.shields.io/badge/Domain-AI%2FML-107C41?style=flat-square)")
 
-    # Limit to top 3 badges to keep the table clean
     return " ".join(badges[:3])
 
 
@@ -165,7 +165,6 @@ def generate_projects_markdown(repos):
         repo_url = r.get("html_url", "#")
         homepage = r.get("homepage")
         description = r.get("description") or "Autonomous AI & Generative AI project."
-        # Truncate description if too long for clean table rendering
         if len(description) > 90:
             description = description[:87] + "..."
 
@@ -202,7 +201,6 @@ def fetch_recent_activity():
         repo_url = f"https://github.com/{repo_name}"
         created_at = format_date(event.get("created_at"))
 
-        # Skip profile repo events to avoid self-reporting updater commits
         if repo_short == PROFILE_REPO:
             continue
 
@@ -254,7 +252,6 @@ def replace_section(content: str, marker_name: str, replacement: str) -> str:
         print(f"Warning: Marker '{marker_name}' not found in content.", file=sys.stderr)
         return content
 
-    # Use a lambda replacement to prevent regex backslash escape pitfalls
     return re.sub(
         pattern,
         lambda m: f"{m.group(1)}\n{replacement.strip()}\n{m.group(3)}",
@@ -291,6 +288,8 @@ def update_readme():
     years_exp = calculate_years_experience()
     print(f"Computed Experience: {years_exp} years (since May 2022)")
 
+    exp_badge_md = generate_experience_badge(years_exp)
+
     print("Fetching repositories...")
     repos = fetch_repositories()
     projects_md = generate_projects_markdown(repos)
@@ -303,14 +302,17 @@ def update_readme():
     last_updated_md = f"⚡ *Automated with GitHub Actions • Last synced: `{now_utc}`*"
 
     # Inject dynamic content
-    updated_content = replace_all_occurrences(content, "YEARS_OF_EXPERIENCE", years_exp)
+    updated_content = replace_section(content, "EXPERIENCE_BADGE", exp_badge_md)
+    updated_content = replace_all_occurrences(updated_content, "YEARS_OF_EXPERIENCE", years_exp)
     updated_content = replace_section(updated_content, "RECENT_PROJECTS", projects_md)
     updated_content = replace_section(updated_content, "RECENT_ACTIVITY", activity_md)
     updated_content = replace_section(updated_content, "LAST_UPDATED", last_updated_md)
 
     if updated_content != content:
-        with open(readme_path, "w", encoding="utf-8") as f:
+        with open(readme_path, "r+", encoding="utf-8") as f:
+            f.seek(0)
             f.write(updated_content)
+            f.truncate()
         print("Successfully updated README.md with fresh dynamic content!")
     else:
         print("README.md is already up-to-date.")

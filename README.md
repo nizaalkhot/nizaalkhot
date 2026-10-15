@@ -18,7 +18,7 @@
   <a href="https://github.com/nizaalkhot/nizaalkhot/blob/main/Resume.pdf"><img src="https://img.shields.io/badge/Resume-View%20PDF-E02424?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
   <a href="https://linkedin.com/in/nizaalkhot"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:nijaal.khot.1@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.credly.com/users/nijaal_khot/badges"><img src="https://img.shields.io/badge/Credly-Verified%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
+  <a href="https://www.credly.com/users/nizaal_khot"><img src="https://img.shields.io/badge/Credly-Verified%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
 </p>
 
 </div>
@@ -137,9 +137,10 @@ Senior AI & Systems Engineer with **<!-- YEARS_OF_EXPERIENCE:START -->4+<!-- YEA
 <table>
   <tr>
     <td width="50%">
-      <b>📜 Professional Certifications</b><br><br>
+      <b>📜 Professional Certifications & Accreditations</b><br><br>
       • <b>AWS Certified: Machine Learning – Specialty</b> (Amazon Web Services)<br>
       • <b>Microsoft Certified: Azure AI Fundamentals</b> (Microsoft)<br>
+      • <b>Google Cloud: AI Agent & ADK Builder Accreditations</b> (Explore Google Cloud)<br>
       • <b>Data Science & Deep Learning Professional Certificates</b> (IBM / Credly)
     </td>
     <td width="50%">
@@ -154,11 +155,16 @@ Senior AI & Systems Engineer with **<!-- YEARS_OF_EXPERIENCE:START -->4+<!-- YEA
 <br>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/e491e07b-6d9e-4e72-851d-77ba148d5e6e/public_url"><img alt="Data Science Professional Certificate" src="https://images.credly.com/size/340x340/images/0da411a5-24e9-4991-9756-ca5f6073e7af/image.png" width="105"/></a>
-  <a href="https://www.credly.com/badges/95c61aaa-b16e-40ee-b42c-6e780050d57c/public_url"><img alt="Applied Data Science Capstone" src="https://images.credly.com/size/720x720/images/60f2e1e1-1b74-4dc0-a24b-cd08b460c12d/Applied_Data_Science_Capstone.png" width="105"/></a>
-  <a href="https://www.credly.com/badges/bc724258-3243-47dd-af4d-1d7396a6419d/public_url"><img alt="Deep Learning Essentials with Keras" src="https://images.credly.com/size/340x340/images/91de936a-1322-446d-9ea6-949d78c57428/image.png" width="105"/></a>
-  <a href="https://www.credly.com/badges/00ef1263-2a1b-421e-843f-bfc9d418853e/public_url"><img alt="Machine Learning with Python" src="https://images.credly.com/size/340x340/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png" width="105"/></a>
-  <a href="https://www.credly.com/badges/a96c8895-cea0-4025-a95f-dd8f51d8dec1/public_url"><img alt="Microsoft Certified: Azure AI Fundamentals" src="https://images.credly.com/size/720x720/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="105"/></a>
+  <a href="https://www.credly.com/badges/2918b234-8c4b-49c7-8edc-e74a318b3106/public_url"><img alt="AWS Certified Machine Learning – Specialty" src="https://images.credly.com/size/340x340/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="110"/></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/a96c8895-cea0-4025-a95f-dd8f51d8dec1/public_url"><img alt="Microsoft Certified: Azure AI Fundamentals" src="https://images.credly.com/size/720x720/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="110"/></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/18cf70cc-d5d9-4576-abbe-9036ab6ce66c/public_url"><img alt="Google Cloud: Build an AI-Powered Analytics Agent" src="https://images.credly.com/size/340x340/images/09f19df7-70ce-4a12-9854-5c5f23077137/blob" width="110"/></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/d4abf7c1-cda8-46de-ba5b-da51691bbd7a/public_url"><img alt="Google Cloud: ADK Builder" src="https://images.credly.com/size/340x340/images/872f83f2-357f-4877-b8e3-52adf19b8ea7/blob" width="110"/></a>
+</p>
+<p align="center">
+  <a href="https://www.credly.com/badges/e491e07b-6d9e-4e72-851d-77ba148d5e6e/public_url"><img alt="Data Science Professional Certificate" src="https://images.credly.com/size/340x340/images/0da411a5-24e9-4991-9756-ca5f6073e7af/image.png" width="110"/></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/bc724258-3243-47dd-af4d-1d7396a6419d/public_url"><img alt="Deep Learning Essentials with Keras" src="https://images.credly.com/size/340x340/images/91de936a-1322-446d-9ea6-949d78c57428/image.png" width="110"/></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/4070f4d2-c51d-45f4-ab9b-b5efaf8df280/public_url"><img alt="Accelerated Deep Learning with GPU" src="https://images.credly.com/size/340x340/images/ce22d252-c0ef-4e57-9840-9e1ce22820a9/blob" width="110"/></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/8ed04451-dd57-4089-9098-6bbc21788d55/public_url"><img alt="Data Engineering Essentials" src="https://images.credly.com/size/340x340/images/c0b439e5-79d5-498e-abc9-2b71cdf08c34/image.png" width="110"/></a>
 </p>
 
 ---
@@ -179,6 +185,6 @@ Senior AI & Systems Engineer with **<!-- YEARS_OF_EXPERIENCE:START -->4+<!-- YEA
 
 <p align="center">
 <!-- LAST_UPDATED:START -->
-⚡ *Automated with GitHub Actions • Last synced: `2026-10-15 04:04 UTC`*
+⚡ *Automated with GitHub Actions • Last synced: `2026-10-15 19:38 UTC`*
 <!-- LAST_UPDATED:END -->
 </p>

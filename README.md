@@ -114,12 +114,12 @@ Senior AI & Systems Engineer with **<!-- YEARS_OF_EXPERIENCE:START -->4+<!-- YEA
 <!-- RECENT_PROJECTS:START -->
 | Project | Description | Tech Stack | Stats | Updated |
 | :--- | :--- | :--- | :---: | :---: |
+| **[Drishti](https://github.com/nizaalkhot/Drishti)**<br>🌐 [Live Demo](https://github.com/nizaalkhot/Drishti) | 🛡️ Real-time Agentic Scam & Fraud Intelligence for Banks - Intercepting APP fraud (Digi... | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ⭐ `0` &nbsp; 🍴 `0` | `Oct 06, 2026` |
 | **[JanSetu](https://github.com/nizaalkhot/JanSetu)** | JanSetu is a sovereign Digital Public Good (DPG) that turns citizen grievances across B... | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐ `0` &nbsp; 🍴 `0` | `Sep 30, 2026` |
 | **[tanglefoot](https://github.com/nizaalkhot/tanglefoot)** | A rigorous public benchmark and interactive dashboard evaluating LLM-based agent framew... | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐ `0` &nbsp; 🍴 `1` | `May 31, 2026` |
 | **[mintwright](https://github.com/nizaalkhot/mintwright)** | The self-evolving agent that builds its own tools at runtime. | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐ `0` &nbsp; 🍴 `0` | `May 17, 2026` |
 | **[portfolio](https://github.com/nizaalkhot/portfolio)** | Autonomous AI & Generative AI project. | ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ⭐ `0` &nbsp; 🍴 `0` | `Apr 20, 2026` |
 | **[financial-literacy-agent](https://github.com/nizaalkhot/financial-literacy-agent)** | Autonomous AI & Generative AI project. | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐ `0` &nbsp; 🍴 `0` | `Apr 12, 2026` |
-| **[multi-agent-resume-optimizer](https://github.com/nizaalkhot/multi-agent-resume-optimizer)** | A powerful AI-driven web application that analyzes and optimizes resumes using multiple... | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐ `0` &nbsp; 🍴 `0` | `Aug 11, 2025` |
 <!-- RECENT_PROJECTS:END -->
 
 ---
@@ -179,6 +179,6 @@ Senior AI & Systems Engineer with **<!-- YEARS_OF_EXPERIENCE:START -->4+<!-- YEA
 
 <p align="center">
 <!-- LAST_UPDATED:START -->
-⚡ *Automated with GitHub Actions • Last synced: `2026-10-14 04:21 UTC`*
+⚡ *Automated with GitHub Actions • Last synced: `2026-10-15 04:04 UTC`*
 <!-- LAST_UPDATED:END -->
 </p>

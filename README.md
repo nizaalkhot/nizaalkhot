@@ -114,7 +114,7 @@ Senior AI & Systems Engineer with **<!-- YEARS_OF_EXPERIENCE:START -->4+<!-- YEA
 <!-- RECENT_PROJECTS:START -->
 | Project | Description | Tech Stack | Stats | Updated |
 | :--- | :--- | :--- | :---: | :---: |
-| **[skills](https://github.com/nizaalkhot/skills)**<br>🌐 [Live Demo](https://skills.sh/nizaalkhot/skills) | Spec-Driven Multi-Agent Skills for Real Engineers: Autonomous specification, system arc... | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐ `0` &nbsp; 🍴 `0` | `Oct 20, 2026` |
+| **[skills](https://github.com/nizaalkhot/skills)**<br>🌐 [Live Demo](https://skills.sh/nizaalkhot/skills) | Spec-Driven Multi-Agent Skills for Real Engineers: Autonomous specification, system arc... | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐ `0` &nbsp; 🍴 `0` | `Oct 25, 2026` |
 | **[Drishti](https://github.com/nizaalkhot/Drishti)**<br>🌐 [Live Demo](https://github.com/nizaalkhot/Drishti) | 🛡️ Real-time Agentic Scam & Fraud Intelligence for Banks - Intercepting APP fraud (Digi... | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ⭐ `0` &nbsp; 🍴 `0` | `Oct 18, 2026` |
 | **[Kaleido](https://github.com/nizaalkhot/Kaleido)**<br>🌐 [Live Demo](https://github.com/nizaalkhot/Kaleido) | One source, a verified experience for every audience. Multi-format personalization & fa... | ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ⭐ `0` &nbsp; 🍴 `0` | `Oct 15, 2026` |
 | **[JanSetu](https://github.com/nizaalkhot/JanSetu)** | JanSetu is a sovereign Digital Public Good (DPG) that turns citizen grievances across B... | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐ `0` &nbsp; 🍴 `0` | `Sep 30, 2026` |
@@ -127,7 +127,7 @@ Senior AI & Systems Engineer with **<!-- YEARS_OF_EXPERIENCE:START -->4+<!-- YEA
 ### ⚡ Recent GitHub Activity
 
 <!-- RECENT_ACTIVITY:START -->
-- 🔨 Pushed to **[skills](https://github.com/nizaalkhot/skills)**: `Pushed new updates` — *Oct 20, 2026*
+- 🔨 Pushed to **[skills](https://github.com/nizaalkhot/skills)**: `Pushed new updates` — *Oct 25, 2026*
 - 🔨 Pushed to **[Drishti](https://github.com/nizaalkhot/Drishti)**: `Pushed new updates` — *Oct 18, 2026*
 - 🔨 Pushed to **[JanSetu](https://github.com/nizaalkhot/JanSetu)**: `Pushed new updates` — *Sep 30, 2026*
 <!-- RECENT_ACTIVITY:END -->
@@ -187,6 +187,6 @@ Senior AI & Systems Engineer with **<!-- YEARS_OF_EXPERIENCE:START -->4+<!-- YEA
 
 <p align="center">
 <!-- LAST_UPDATED:START -->
-⚡ *Automated with GitHub Actions • Last synced: `2026-10-25 04:05 UTC`*
+⚡ *Automated with GitHub Actions • Last synced: `2026-10-26 04:09 UTC`*
 <!-- LAST_UPDATED:END -->
 </p>
